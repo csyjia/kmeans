@@ -1,0 +1,15 @@
+Program name: KMeans
+Author Name: Yichen Jia (yjia@csc.lsu.edu)
+Class: CSC7442 Data Mining and Knowledge Discovery from Databases
+Instructor: Professor E. Triantaphyllou
+
+This program is used to cluster the most related points into the same group. 
+
+Compile: make
+Execution: ./KMeans
+
+Configuration: Elements in config file are amount of attributes, number of clusters, max_iterations respectively. ====> stored in config file.
+               Elements in dataset are data points, each point per line!   ===> stored in dataset file.
+
+
+ 
